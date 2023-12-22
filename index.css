@@ -1,0 +1,333 @@
+.your-health-is {
+  position: absolute;
+  top: 180px;
+  left: 32px;
+  font-size: 52px;
+  line-height: 140%;
+  font-family: var(--font-merriweather);
+  display: inline-block;
+  width: 598px;
+}
+.dont-let-feeling {
+  margin-block-start: 0;
+  margin-block-end: 1.5px;
+}
+.dont-let-feeling-container {
+  position: absolute;
+  top: 362px;
+  left: 32px;
+  letter-spacing: 0.05em;
+  line-height: 140%;
+  display: inline-block;
+  width: 562px;
+  height: 240px;
+}
+.main-page-child {
+  position: absolute;
+  top: 243px;
+  left: 630px;
+  border-radius: 100px 0 0 0;
+  width: 224px;
+  height: 334px;
+  object-fit: cover;
+}
+.main-page-inner,
+.main-page-item {
+  position: absolute;
+  top: 470px;
+  left: 876px;
+  border-radius: 0 0 var(--br-31xl) 0;
+  width: 202px;
+  height: 302px;
+  object-fit: cover;
+}
+.main-page-inner {
+  top: 160px;
+  left: 873px;
+  border-radius: 0 var(--br-31xl) 0 0;
+  width: 203px;
+  height: 296px;
+}
+.menu-section {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  background-color: var(--color-gainsboro);
+  width: 1060px;
+  height: 115px;
+}
+.home,
+.vitality-vista {
+  position: absolute;
+  top: 58px;
+  left: 464px;
+  line-height: 140%;
+  display: inline-block;
+  width: 91px;
+  height: 67px;
+}
+.vitality-vista {
+  top: 44px;
+  left: 63px;
+  font-size: 48px;
+  font-weight: 600;
+  color: #023e8a;
+  width: 302px;
+}
+.about {
+  top: 58px;
+  left: 570px;
+  width: 67px;
+}
+.about,
+.contact,
+.services {
+  position: absolute;
+  line-height: 140%;
+  display: inline-block;
+}
+.contact {
+  top: 60px;
+  left: 787px;
+  width: 91px;
+  height: 67px;
+}
+.services {
+  top: 58px;
+  left: 670px;
+  width: 93px;
+}
+.footer-section {
+  position: absolute;
+  top: 972px;
+  left: 17px;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1060px;
+  height: 70px;
+}
+.helpdeskvitality-vistacom {
+  position: absolute;
+  top: 995px;
+  left: 240px;
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  font-family: var(--font-merriweather);
+}
+.appointment-section {
+  position: absolute;
+  top: 608px;
+  left: 17px;
+  border-radius: 20px;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 128px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 823px;
+  height: 166px;
+}
+.book-appointment {
+  position: absolute;
+  top: 618px;
+  left: 45px;
+  font-size: 35px;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 314px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 53px;
+  left: 928px;
+  border-radius: var(--br-3xs);
+  background-color: #7209b7;
+  width: 135px;
+  height: 53px;
+  cursor: pointer;
+}
+.sign-up {
+  position: absolute;
+  top: 60px;
+  left: 953px;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.main-page-child1 {
+  top: 677px;
+  left: 38px;
+  background-color: var(--color-white);
+  width: 200px;
+  height: 76px;
+}
+.main-page-child1,
+.main-page-child2,
+.rectangle-icon {
+  position: absolute;
+  border-radius: var(--br-3xs);
+}
+.main-page-child2 {
+  top: 677px;
+  left: 464px;
+  background-color: var(--color-white);
+  width: 200px;
+  height: 76px;
+}
+.rectangle-icon {
+  top: 688px;
+  left: 676px;
+  width: 150px;
+  height: 54px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.location,
+.mumbai-india {
+  position: absolute;
+  left: 51px;
+  line-height: 140%;
+}
+.location {
+  top: 689px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.mumbai-india {
+  top: 710px;
+}
+.main-page-child3 {
+  position: absolute;
+  top: 677px;
+  left: 251px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 200px;
+  height: 76px;
+}
+.fever,
+.rd-dec-2023 {
+  position: absolute;
+  top: 711px;
+  left: 265px;
+  line-height: 140%;
+}
+.fever {
+  left: 476px;
+  display: inline-block;
+  width: 169px;
+}
+.appointment-date {
+  top: 689px;
+  left: 265px;
+  font-size: var(--font-size-base);
+}
+.appointment-date,
+.search,
+.select-health-problem {
+  position: absolute;
+  line-height: 140%;
+  font-weight: 600;
+}
+.select-health-problem {
+  top: 689px;
+  left: 476px;
+  font-size: var(--font-size-base);
+}
+.search {
+  top: 697px;
+  left: 716px;
+  font-size: 22px;
+  color: var(--color-white);
+}
+.images-removebg-preview-1-icon {
+  position: absolute;
+  top: 792px;
+  left: -21px;
+  width: 429px;
+  height: 159px;
+  object-fit: cover;
+}
+.download-1-removebg-preview-icon,
+.download-2-removebg-preview-icon {
+  position: absolute;
+  top: 773px;
+  left: 409px;
+  width: 307px;
+  height: 200px;
+  object-fit: cover;
+}
+.download-1-removebg-preview-icon {
+  top: 789px;
+  left: 721px;
+  width: 338px;
+  height: 167px;
+}
+.tdesigncall-1,
+.typcnmail-icon,
+.vector-icon {
+  position: absolute;
+  top: 143px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.typcnmail-icon,
+.vector-icon {
+  top: 986px;
+  left: 202px;
+  width: 33px;
+  height: 39px;
+  object-fit: cover;
+}
+.vector-icon {
+  height: 1.96%;
+  width: 1.94%;
+  top: 92.05%;
+  right: 93.39%;
+  bottom: 5.99%;
+  left: 4.67%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div,
+.vitthaldas-thackersey-marg {
+  position: absolute;
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  font-family: var(--font-merriweather);
+  display: inline-block;
+}
+.div {
+  top: 996px;
+  left: 88px;
+  width: 92px;
+  height: 21px;
+}
+.vitthaldas-thackersey-marg {
+  top: 991px;
+  left: 510px;
+  width: 531px;
+}
+.mdilocation-icon {
+  position: absolute;
+  top: 991px;
+  left: 464px;
+  width: 36px;
+  height: 32px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.main-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1082px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-lora);
+}
